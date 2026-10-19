@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+  <url>
+    <loc>https://es.fabletour.com/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/Qwf669ew4aQ/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Viaje a Irak con Fable Tour: la experiencia de un viajero hispanohablante</video:title>
+      <video:description>Saif, de Fable Tour, recorre Irak con un viajero de habla hispana.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/Qwf669ew4aQ</video:player_loc>
+    </video:video>
+    <video:video>
+      <video:thumbnail_loc>https://img.youtube.com/vi/qvfwgi9Ws1k/hqdefault.jpg</video:thumbnail_loc>
+      <video:title>Fable Tour en Irak: un momento del viaje</video:title>
+      <video:description>Vídeo corto de un viaje con Fable Tour en Irak.</video:description>
+      <video:player_loc>https://www.youtube.com/embed/qvfwgi9Ws1k</video:player_loc>
+    </video:video>
+  </url>
+</urlset>
